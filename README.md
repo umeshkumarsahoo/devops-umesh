@@ -177,14 +177,6 @@ _(You can paste images using GitHub markdown or links.)_
 
 ---
 
-## 💡 Extras Coming Soon
-
-- 📊 Monitoring (CloudWatch, Prometheus)
-- 🔄 Auto rollback for failed deploys
-- 🛡️ More security tools (Snyk, Checkov)
-- ☁️ Optional EKS/Kubernetes add-on
-
----
 
 ## 📬 Contact
 
